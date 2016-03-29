@@ -1,2 +1,2 @@
 # SchoolStuff
-Mesh of being too diligent and too lazy
+Mix of being too diligent and too lazy
